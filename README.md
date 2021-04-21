@@ -1,0 +1,3 @@
+A transformer between reader monad and bluebird Promise.
+
+Caution: May cause hazardous environment...
